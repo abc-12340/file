@@ -1,15 +1,21 @@
 1. Nhớ
 - Đo giá trị, cất trữ, tiền quốc tế = tiền phải đủ giá trị
 - Nhật từng giảm phát, bản vị tiền giấy
+- Zimbabwe giải quyết lạm phát = cải cách tiền tệ → thường chỉ tạm thời
 - Thâm hụt NSNN VN không quá 5%, châu Âu không quá 3%
 - Cty thương mại = hàng tồn (ngắn hạn), cty sản xuất = TSCĐ dài hạn
 - Vốn pháp định NHTM = 3000 tỷ
 - NHTM = doanh nghiệp trong tiền tệ, tín dụng, thanh toán
-- NHTM có tài sản quan trọng = tiền cho vay, nguồn vốn quan trọng = tiền gửi có kì hạn
+- NHTM tài sản = tiền cho vay, nguồn vốn = tiền gửi có kì hạn
+- Cty cổ phần ít nhất 7 cổ đông, cty TNHH đóng đủ vốn từ đầu
+- Cty liên doanh = cty TNHH
+- Trái phiếu chuyển đổi → cổ phiếu
 - Cổ phiếu = ghi sổ, mệnh giá, thị trường
 - Upcom = CP chưa niêm yết
+- Dự trữ bắt buộc hưởng lãi 0.5%
 - Lãi coupon ~ giá bán ss với lãi ~ mệnh giá
 - Lãi = 0 → muốn tăng trưởng (ZIRP)
+- Đuôi -IBOR = lãi liên ngân hàng (LIBOR = London, SIBOR = Singapore, VNIBOR = Việt Nam)
 - Bộ Tài chính = chứng khoán, bảo hiểm
 - Phân cấp NSNN = chế độ chính sách, vật chất, chu trình ngân sách
 - Cân đối NSNN = thu trong cân đối ≥ chi thường xuyên, thu ngoài cân đối chỉ cho chi đầu tư
@@ -63,8 +69,11 @@ Friedman = hiện tượng giá tăng
 - NSNN
 Cổ điển = văn kiện tài chính hàng năm, mô tả thu chi
 Phương Tây = quỹ tập trung, kế hoạch tài chính cơ bản
-Trung Quốc = kế hoạch thu chi hàng năm, theo pháp luật
+Anh + Mỹ = tường trình chi tiêu viện trợ năm tới
+Pháp = tài liệu kế toán thu chi 1 năm
 Nga = bảng thu chi trong 1 giai đoạn
+Trung Quốc = kế hoạch thu chi hàng năm, theo pháp luật
+Việt Nam = thu chi 1 năm, cơ quan thẩm quyền quyết định
 
 4. Công thức
 - Lãi đơn ⇒ Công thức: FVn = P0 . (1 + i.n)
@@ -85,11 +94,11 @@ Nga = bảng thu chi trong 1 giai đoạn
 
 - Tỉ suất lợi tức ⇒ Công thức: R = (Pt+1 - Pt + C) / Pt
 	R = Tỉ suất lợi tức
-  Pt+1 = Giá bán
+  	Pt+1 = Giá bán
 	Pt = Giá mua
 	C = Thu nhập
-      Với cổ phiếu: Cổ tức = Mệnh giá CP (VN chỉ có 10.000Đ) . Tỉ lệ cổ tức
-      Với trái phiếu: Tiền lãi = Mệnh giá TP . Lãi suất
+      -- Với cổ phiếu: Cổ tức = Mệnh giá CP (VN chỉ có 10.000Đ) . Tỉ lệ cổ tức
+      -- Với trái phiếu: Tiền lãi = Mệnh giá TP . Lãi suất
 
 - Lãi suất thực ⇒ Phương trình Fisher:
                     Tỉ lệ lạm phát < 10%: i = ir + π^e
@@ -112,7 +121,7 @@ Nga = bảng thu chi trong 1 giai đoạn
 
 - Lượng cung ứng tiền
 ⇒ Công thức: MS (hoặc M) = m . MB
-  m = Số nhân tiền tệ
+  	m = Số nhân tiền tệ
 	M = Cung tiền
 	MB = Cơ số tiền tệ (= C + R)
 
@@ -122,14 +131,29 @@ Nga = bảng thu chi trong 1 giai đoạn
 
 5. Phân loại
 - Thu NSNN
-  + Theo nguồn (2) = trong + ngoài nước
-  + Theo tác dụng (2) = cân đối + bù thâm hụt
+  + Theo nguồn (2)
+	-- Trong nước
+		Sản xuất (nông, công, xây) → Tỉ trọng lớn
+		Lưu thông (tài chính, thương mại, vận tải)
+		Dịch vụ (y tế, giáo dục...)
+	-- Ngoài nước = viện trợ, vay nước ngoài...
+  + Theo tác dụng (2)
+	-- Bù thâm hụt = thu từ vay → có hoàn trả
+	-- Trong cân đối = thuế, phí, hoạt động kinh tế → không hoàn trả
 
 - Chi NSNN
-  + Theo chức năng (5)
+  + Theo chức năng (5) = kiến thiết kinh tế, VHXH, ANQP, quản lý hành chính, khác
   + Theo tính chất (3)
+	-- Thường xuyên = duy trì, điều hành
+	-- Đầu tư phát triển = đầu tư, xây mới
+	-- Khác = trả nợ, bổ sung dự trữ, viện trợ cho vay
 
 - Bản chất NSNN (4) = doanh nghiệp, hộ gia đình, tổ chức tài chính, đơn vị phi sản xuất
+
+- Năm ngân sách
+	+ VN tháng 1-12
+	+ Nhật tháng 4-3
+	+ Thái, Mỹ tháng 10-9
 
 - Bp giảm thâm hụt (5)
   + Phát hành tiền
@@ -142,15 +166,20 @@ Nga = bảng thu chi trong 1 giai đoạn
   + Công cụ trao đổi (giấy, xu...) = công cụ mua bán, thanh toán nợ
   + Đơn vị tiền tệ ⇒ Ít thay đổi
   + Bản vị tiền tệ = định giá đồng tiền ⇒ Hay thay đổi
-    -- Song bản vị
+    -- Song bản vị 
+		→ Tiền xác định bằng 2 kim loại vàng bạc, hiện tượng đuổi tiền
     -- Bản vị vàng
+		→ Tiền xác định bằng vàng, tiền vàng được đúc + lưu thông tự do
     -- Bản vị vàng thỏi
+		→ Tiền xác định bằng vàng, vàng đúc thỏi chỉ dự trữ không lưu thông
     -- Bản vị vàng hối đoái
+		→ Tiền đổi vàng phải qua ngoại tệ mạnh, quốc gia có kinh tế yếu bắt đầu phụ thuộc
     -- Bản vị ngoại tệ
+		→ Đơn vị tiền xác định bằng ngoại tệ mạnh, quốc gia không có vàng hoặc thuộc địa kinh tế rất yếu
     -- Bản vị giấy không chuyển vàng
+		→ Tiền không tự do đổi ra kim loại, giá trị xác định bằng sức mua
 
 - Thuộc tính tiền (7) = chấp nhận rộng, dễ nhận biết, chia nhỏ được, bền, dễ vận chuyển, khan hiếm, đồng nhất
-
 - Thuộc tính séc (5) = thời hạn, chuyển nhượng, bắt buộc thanh toán, đầy đủ, nhất quán
 
 - Bộ phận hệ thống tài chính (4) = thị trường, cơ sở hạ tầng, công cụ, tổ chức tín dụng
@@ -160,12 +189,42 @@ Nga = bảng thu chi trong 1 giai đoạn
   + Trung gian để bảo vệ người gửi tiền
 
 - Chức năng NHTM (3) = Tạo tiền, trung gian thanh toán, trung gian tài chính
-
 - Chức năng NHTW (3) = Phát hành tiền, NH của chính phủ, NH của NHTM
 
 - Vấn đề tài chính doanh nghiệp (3) = đầu tư dài, tài chính ngắn, huy động vốn ~ tài trợ
 
+- Tín dụng
+  + Theo thời gian (3) = ngắn (<1 năm), trung (1-5 năm), dài (>5 năm)
+  + Theo mục đích (3) = sản xuất (doanh nghiệp), tiêu dùng (cá nhân), khác
+  + Theo hình thức (4) = cho vay, chiết khấu, thuê tài chính, bảo lãnh
+  + Theo chủ thể (4)
+	-- Tín dụng ngân hàng = vay tiền, quan trọng nhất
+	-- Tín dụng thương mại = vay hàng, ngắn hạn, giá trị nhỏ
+	-- Tín dụng Nhà nước = tín phiếu (ngắn hạn) + trái phiếu (dài hạn), lãi ưu đãi
+	-- Cho thuê tài chính = thuê tài sản không thế chấp, trung dài hạn, giá trị lớn, 4 loại (2 bên, 3 bên, thuê mua, giáp lưng)
+
 - Tác nhân cung ứng tiền (3) = NHTW, NHTM, người gửi tiền
+
+- Công cụ tài chính
+  + Ngắn hạn = tín phiếu, chứng chỉ tiền, thương phiếu, hối phiếu
+  + Dài hạn = cổ phiếu, trái phiếu, vay thế chấp
+
+- Cấu trúc thị trường (5)
+  + Hình thức huy động (tính chất)
+	-- Vốn cổ phần (cổ phiếu)
+	-- Nợ (còn lại)
+  + Kì hạn
+	-- Tiền tệ (ngắn hạn)
+	-- Vốn (dài hạn)
+  + Quá trình phát hành
+	-- Cấp 1 ~ sơ cấp = IPO → Tăng vốn chủ sở hữu
+	-- Cấp 2 ~ thứ cấp → Tăng thanh khoản
+  + Đặc điểm
+	-- Tập trung = HOSE, HNX, NYSE...
+	-- Phi tập trung = OTC
+  + Quản lý
+	-- Chính thức (cổ phiếu, trái phiếu...)
+	-- Phi chính thức (tiền ảo, chợ đen, cá độ...)
 
 - Ảnh hưởng cung cầu trái phiếu
   + Cầu trái phiếu ~ cung vốn vay
@@ -180,13 +239,19 @@ Nga = bảng thu chi trong 1 giai đoạn
     -- Chính phủ giảm thâm hụt = TLT
 
 - Cân đối tiền tệ
-
+  + NHTW
+	-- Tài sản (có) = chứng khoán, cho NHTM vay
+	-- Nguồn vốn (nợ) = dự trữ của NHTM, tiền lưu hành
+  + NHTM
+	-- Tài sản (có) = chứng khoán, dự trữ, cho khách vay
+	-- Nguồn vốn (nợ) = tiền gửi séc, vay của NHTW
+	
 - Mục tiêu CSTT
   + Cuối cùng = ổn định giá + tăng trưởng kinh tế (ngắn hạn mâu thuẫn, dài hạn chặt chẽ)
   + Trung gian = tiền cung ứng (M1, M2, M3) hoặc lãi (chọn 1 trong 2)
   + Hoạt động = dự trữ hoặc lãi ngắn hạn (chọn 1 trong 2)
 
-- CSTT (6), hay dùng 3 cái đầu
+- CSTT (6) → hay dùng 3 cái đầu
   + Tái chiết khấu ⇒ Quan trọng nhưng bị động
   + Dự trữ bắt buộc
   + Thị trường mở ⇒ Quan trọng nhất
