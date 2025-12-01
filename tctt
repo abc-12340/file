@@ -1,0 +1,195 @@
+1. Nhớ
+- Đo giá trị, cất trữ, tiền quốc tế = tiền phải đủ giá trị
+- Nhật từng giảm phát, bản vị tiền giấy
+- Thâm hụt NSNN VN không quá 5%, châu Âu không quá 3%
+- Cty thương mại = hàng tồn (ngắn hạn), cty sản xuất = TSCĐ dài hạn
+- Vốn pháp định NHTM = 3000 tỷ
+- NHTM = doanh nghiệp trong tiền tệ, tín dụng, thanh toán
+- NHTM có tài sản quan trọng = tiền cho vay, nguồn vốn quan trọng = tiền gửi có kì hạn
+- Cổ phiếu = ghi sổ, mệnh giá, thị trường
+- Upcom = CP chưa niêm yết
+- Lãi coupon ~ giá bán ss với lãi ~ mệnh giá
+- Lãi = 0 → muốn tăng trưởng (ZIRP)
+- Bộ Tài chính = chứng khoán, bảo hiểm
+- Phân cấp NSNN = chế độ chính sách, vật chất, chu trình ngân sách
+- Cân đối NSNN = thu trong cân đối ≥ chi thường xuyên, thu ngoài cân đối chỉ cho chi đầu tư
+- Cấp NSNN = TW, tỉnh, huyện, xã
+- Cấp KBNN = TW, tỉnh, huyện
+- Chu trình ngân sách = lập → phê duyệt → giao → thực hiện → quyết toán
+- CSTK = Chi tiêu chính phủ + thuế
+- Lạm phát ⇒ Người cho vay, hưởng lương, mua trái phiếu, bán tài sản thực = thiệt
+- Lựa chọn đối nghịch = vấn đề trước giao dịch, rủi ro đạo đức = vấn đề sau giao dịch
+
+2. Mức giữ lại
+- NSTW 100%
+Thuế GTGT xuất nhập khẩu
+Thuế xuất nhập khẩu, tiêu thụ đặc biệt nhập khẩu
+Thuế TNDN hạch toán toàn ngành
+Thuế/ thu dầu khí
+Viện trợ không hoàn lại nước ngoài
+
+- NSĐP 100%
+Thuế liên quan nhà đất
+Thuế môn bài
+Thuế tài nguyên (- dầu khí)
+Lệ phí trước bạ, xổ số
+Viện trợ trực tiếp địa phương
+
+- Chia %
+Thuế GTGT (- xuất nhập)
+Thuế TNDN (- toàn ngành)
+Thuế thu nhập cao
+Thuế chuyển lợi nhuận ra nước ngoài (- dầu khí)
+Thuế tiêu thụ đặc biệt trong nước
+Phí xăng dầu
+Cân đối NSNN
+
+3. Câu nói
+- Tiền tệ
+Mishkin = bất cứ gì chấp nhận chung
+Marx = hàng đặc biệt, ngang giá
+
+- Lãi
+Marx = GT thặng dư trả tư bản
+KTH cầu tài sản = cơ sở xác định OC
+Ngân hàng = tỉ lệ lãi so vốn
+KTH hiện đại = giá của cho vay
+
+- Lạm phát
+Marx = tràn đầy giấy bạc thừa
+Samuelson = mức chung giá, chi phí tăng
+Friedman = hiện tượng giá tăng
+
+- NSNN
+Cổ điển = văn kiện tài chính hàng năm, mô tả thu chi
+Phương Tây = quỹ tập trung, kế hoạch tài chính cơ bản
+Trung Quốc = kế hoạch thu chi hàng năm, theo pháp luật
+Nga = bảng thu chi trong 1 giai đoạn
+
+4. Công thức
+- Lãi đơn ⇒ Công thức: FVn = P0 . (1 + i.n)
+
+- Lãi kép ⇒ Công thức: FVn = P0 . (1 + i)^n
+
+- Giá trị thời gian của tiền ⇒ Công thức: P0 = ∑ (CF / (1 + i)^n)
+	P0 = Giá trị hiện tại
+	CF = Số tiền nhận về tại năm đó (tiền lãi tính theo coupon hoặc tiền gốc+lãi)
+	i = Lãi suất hoàn vốn
+	n = Năm thứ mấy
+
+- Trái phiếu chiết khấu/giảm giá/món vay ⇒ Công thức: Cn = C0 . (1 + i)^n
+	Cn = Mệnh giá
+	C0 = Giá ban đầu
+	i = Lãi suất
+	n = Thời gian đáo hạn
+
+- Tỉ suất lợi tức ⇒ Công thức: R = (Pt+1 - Pt + C) / Pt
+	R = Tỉ suất lợi tức
+  Pt+1 = Giá bán
+	Pt = Giá mua
+	C = Thu nhập
+      Với cổ phiếu: Cổ tức = Mệnh giá CP (VN chỉ có 10.000Đ) . Tỉ lệ cổ tức
+      Với trái phiếu: Tiền lãi = Mệnh giá TP . Lãi suất
+
+- Lãi suất thực ⇒ Phương trình Fisher:
+                    Tỉ lệ lạm phát < 10%: i = ir + π^e
+                    Tỉ lệ lạm phát > 10%: ir = (in - π^e) / (π^e + 1)
+                    	i = Lãi thực
+                    	ir = Lãi danh nghĩa
+                    	π = Tỉ lệ lạm phát
+
+- Hệ số nhân tiền ⇒ Công thức:  D = (1 / rd) . R
+	D = Thay đổi của tổng tiền gửi séc
+	rd = Tỉ lệ dự trữ bắt buộc
+	R = Thay đổi tiền dự trữ với hoạt động hệ thống ngân hàng
+
+- Số nhân tiền tệ ⇒ Công thức: m = [1 + (C/D)] / [rd + (ER/D) + (C/D)] = 1 / rd
+	m = Số nhân tiền tệ
+	rd = Tỉ lệ dự trữ bắt buộc
+	C = Tiền mặt
+	ER = Tiền dự trữ vượt mức
+	D = Tiền gửi séc
+
+- Lượng cung ứng tiền
+⇒ Công thức: MS (hoặc M) = m . MB
+  m = Số nhân tiền tệ
+	M = Cung tiền
+	MB = Cơ số tiền tệ (= C + R)
+
+⇒ Lưu ý
+  Giữ nguyên CF, lãi coupon càng cao + giá hiện tại càng nhỏ thì lãi hoàn vốn càng cao
+  m và M TLN với rd, TLN với C/D, TLN với ER/D
+
+5. Phân loại
+- Thu NSNN
+  + Theo nguồn (2) = trong + ngoài nước
+  + Theo tác dụng (2) = cân đối + bù thâm hụt
+
+- Chi NSNN
+  + Theo chức năng (5)
+  + Theo tính chất (3)
+
+- Bản chất NSNN (4) = doanh nghiệp, hộ gia đình, tổ chức tài chính, đơn vị phi sản xuất
+
+- Bp giảm thâm hụt (5)
+  + Phát hành tiền
+  + Vay nợ ⇒ Hay dùng
+  + Tăng thuế
+  + Giảm chi
+  + Dự trữ ngoại hối ⇒ Tốt nhất
+
+- Chế độ tiền tệ
+  + Công cụ trao đổi (giấy, xu...) = công cụ mua bán, thanh toán nợ
+  + Đơn vị tiền tệ ⇒ Ít thay đổi
+  + Bản vị tiền tệ = định giá đồng tiền ⇒ Hay thay đổi
+    -- Song bản vị
+    -- Bản vị vàng
+    -- Bản vị vàng thỏi
+    -- Bản vị vàng hối đoái
+    -- Bản vị ngoại tệ
+    -- Bản vị giấy không chuyển vàng
+
+- Thuộc tính tiền (7) = chấp nhận rộng, dễ nhận biết, chia nhỏ được, bền, dễ vận chuyển, khan hiếm, đồng nhất
+
+- Thuộc tính séc (5) = thời hạn, chuyển nhượng, bắt buộc thanh toán, đầy đủ, nhất quán
+
+- Bộ phận hệ thống tài chính (4) = thị trường, cơ sở hạ tầng, công cụ, tổ chức tín dụng
+
+- Quản lý
+  + Thị trường để diễn ra hiệu quả
+  + Trung gian để bảo vệ người gửi tiền
+
+- Chức năng NHTM (3) = Tạo tiền, trung gian thanh toán, trung gian tài chính
+
+- Chức năng NHTW (3) = Phát hành tiền, NH của chính phủ, NH của NHTM
+
+- Vấn đề tài chính doanh nghiệp (3) = đầu tư dài, tài chính ngắn, huy động vốn ~ tài trợ
+
+- Tác nhân cung ứng tiền (3) = NHTW, NHTM, người gửi tiền
+
+- Ảnh hưởng cung cầu trái phiếu
+  + Cầu trái phiếu ~ cung vốn vay
+    -- Của cải = TLT
+    -- Lợi tức dự tính = TLT
+    -- Rủi ro = TLN
+    -- Tính thanh khoản = TLT
+    -- Lạm phát dự tính = TLN
+  + Cung trái phiếu ~ cầu vốn vay
+    -- Khả năng sinh lời = TLT
+    -- Lạm phát dự tính = TLT
+    -- Chính phủ giảm thâm hụt = TLT
+
+- Cân đối tiền tệ
+
+- Mục tiêu CSTT
+  + Cuối cùng = ổn định giá + tăng trưởng kinh tế (ngắn hạn mâu thuẫn, dài hạn chặt chẽ)
+  + Trung gian = tiền cung ứng (M1, M2, M3) hoặc lãi (chọn 1 trong 2)
+  + Hoạt động = dự trữ hoặc lãi ngắn hạn (chọn 1 trong 2)
+
+- CSTT (6), hay dùng 3 cái đầu
+  + Tái chiết khấu ⇒ Quan trọng nhưng bị động
+  + Dự trữ bắt buộc
+  + Thị trường mở ⇒ Quan trọng nhất
+  + Hạn mức tín dụng
+  + Kiểm soát lãi
+  + Tỉ giá
