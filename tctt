@@ -87,6 +87,17 @@ Việt Nam = thu chi 1 năm, cơ quan thẩm quyền quyết định
 	i = Lãi suất hoàn vốn
 	n = Năm thứ mấy
 
+- Tiết kiệm trả lãi trước ⇒ Công thức: Cn = C + Cn / (1 + i)^n
+	Cn = Tiền gửi nhận về
+	C = Tổng tiền lãi qua các kì
+	i = Lãi suất hoàn vốn
+	n = Kì hạn
+
+- Trái phiếu consol (không kì hạn) ⇒ Công thức: Cn = C . i
+	Cn = Giá trị hiện tại
+	C = Tiền lãi hàng kì
+	i = Lãi suất hoàn vốn
+
 - Trái phiếu chiết khấu/giảm giá/món vay ⇒ Công thức: Cn = C0 . (1 + i)^n
 	Cn = Mệnh giá
 	C0 = Giá ban đầu
