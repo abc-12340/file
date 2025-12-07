@@ -1,0 +1,106 @@
+1. Khái niệm cơ bản
+- Dữ liệu cơ sở là dữ liệu cơ bản ban đầu, cần cho bài toán
+- Dữ liệu thứ cấp là dữ liệu có thể suy ratừ dữ liệu cơ sở
+- Cấu trúc dữ liệu là kết hợp dữ liệu cơ sở theo 1 cách nào đó (mảng/cây/đồ thị…) nhằm liên kết thành 1 thể thống nhất thuận tiện cho xử lý
+- Cấu trúc lưu trữ là phương thức biểu diễn 1 cấu trúc dữ liệu trong bộ nhớ
+- Giải thuật ~ thuật toán ~ cách giải là quy tắc chặt chẽ (hiểu 1 nghĩa) theo trình tự trên đối tượng cụ thể (1 dạng nhất định) để giải quyết 1 vấn đề
+  + Cấu trúc điều khiển
+    -- Tuần tự: Mỗi bước thực hiện đúng 1 lần theo trình tự
+    -- Chọn lọc: Chọn thực hiện 1 trong nhiều thao tác
+    -- Chu trình: Có bước được thực hiện lặp lại
+  + Phương pháp biểu diễn
+    -- Bằng lời: Nắm tư tưởng chủ đạo, trừu tượng cao
+    -- Bằng sơ đồ khối: Cái nhìn tổng quát cấu trúc
+    -- Bằng ngôn ngữ lập trình: Biểu diễn ngắn gọn
+- CHƯƠNG TRÌNH = CẤU TRÚC DỮ LIỆU + GIẢI THUẬT
+- Đệ quy → Đối tượng được định nghĩa qua chính bản thân, bao hàm chính nó như bộ phận cấu thành
+  + Phần neo: Tác động đặc tả cho 1 tham số (trường hợp dừng)
+  + Phần đệ quy: Tác động cần thực hiện cho giá trị hiện thời của tham số có giá trị đã được định nghĩa trước đó (tự gọi hàm)
+
+2. Độ phức tạp của thuật toán
+- Hiệu suất
+  + Bộ nhớ
+  + Thời gian (Kích thước đầu vào ~ quan trọng, kiểu lệnh, tốc độ máy, chất lượng chương trình dịch)
+- T(n) là hàm số phép tính mà giải thuật thực hiện
+  → BigO ~ O(n) là thời gian thực hiện lâu nhất của thuật toán với mọi kích thước đầu vào
+
+3. Module hóa
+- Module hóa là chia bài toán lớn thành các bài nhỏ hơn, ngày càng cụ thể chi tiết
+- Phân rã module là tư tưởng chính tạo nên phương hướng quan trọng (lập trình cấu trúc)
+- Phương pháp
+  + Top Down: Xác định vấn đề bao quát, phân chia nhiệm vụ thành module con
+  + Bottom Up: Gộp các module cùng chức năng, thiết kế thêm cho phong phú đầy đủ
+
+4. Kĩ thuật giải thuật
+- Chia để trị: Chia thành các bài toán con có kích thước nhỏ hơn, giải các bài con rồi tổng hợp kết quả
+  + Quan trọng nhất
+  + Gồm: Phân tích thành bài toán cơ sở và Tổng hợp kết quả
+- Quy hoạch động: Tạo bảng lưu tất cả các kết quả của bài toán con, khi cần thì lấy kết quả từ bảng mà không cần tính lại
+- Lựa chọn thành phần ~ Tham ăn: Lựa chọn các thành phần tốt, tối ưu trước, các thành phần không tốt chọn sau
+- Quay lui: Phân tích cho tới cả điểm dừng, khi không ra kết quả thì quay lại hoặc đi hướng khác
+  + Nghịch đảo Ba Lan
+  + Cắt tỉa Alpha-Beta
+
+5. Mảng
+- Mảng là tập hợp có thứ tự, số lượng phần tử xác định, truy cập cùng tên
+- Mảng 1 chiều là tập hợp tuần tự phần tử cùng kiểu dữ liệu, lưu trữ trong dãy ô nhớ liên tục
+  + Địa chỉ = Base + (i-1)
+  + Phép toán
+    -- Tạo
+    -- Sắp xếp
+    -- Tìm kiếm
+    -- Tính toán: tbinh = cộng → chia, phsai = cộng bp → chia, dolech = bình phương
+- Mảng 2 chiều (m x n ~ m dòng và n cột) là nhiều mảng 1 chiều đứng cạnh nhau
+  + Lưu trữ
+    -- Ưu tiên dòng: P(i,j) = Base + (i−1).n.k + (j−1).k
+    -- Ưu tiên cột: P(i,j) = Base + (i−1).k + (j−1).m.k
+  + Phép toán: Tạo, tìm, cộng, nhân 2 chiều với 1 chiều, nhân 2 chiều
+
+6. Danh sách
+- Là tập hợp nhiều phần tử có tính chất cấu trúc thứ tự giữa các phần tử với nhau: Nếu biết được phần tử thứ i thì sẽ biết được vị trí của phần tử thứ i+1
+  + Các phần tử có thể nằm rải rác trong bộ nhớ, không liền kề nhau
+  + Key là thông tin tìm kiếm
+  + Kết quả tìm kiếm là vị trí
+- Phép toán: Tìm, thêm, xóa, thay thế phần tử, ghép, tách, sắp xếp
+  
+  a. Stack = ngăn xếp (LIFO)
+- Là kiểu danh sách tuyến tính mà việc thêm hay bỏ chỉ thực hiện ở 1 đầu đỉnh (Top)
+  → Danh sách hạn chế
+- Rỗng → Top=0, tràn → Top=n, thêm → Top+=1, xóa → Top-=1
+- Lưu trữ = mảng
+
+  b. Queue = hàng đợi (FIFO)
+- Là kiểu danh sách tuyến tính mà việc thêm thực hiện ở lối sau (Rear) và xóa thực hiện ở lối trước (Front)
+- Rỗng → Front = Rear
+- Lưu trữ = vector
+  + Theo mảng tuyến tính: Mặc định Front = Rear = 0 → Sẽ chạy lung tung trong bộ nhớ (Không tối ưu)
+    -- Thêm: Rear = Rear + 1
+    -- Xóa: Front = Front + 1
+  + Theo nối vòng: Liền sau phần tử cuối = quay về phần tử đầu
+    -- Thêm: Rear = (Rear+1) % Size
+    -- Xóa: Front = (Front+1) % Size
+
+  c. Danh sách liên kết đơn
+- Mỗi phần tử lưu trữ trong 1 node, mỗi node gồm 1 số từ máy liên tiếp nhau, có thể nằm rải rác trong bộ nhớ
+- Node = Data + Liên kết trỏ phần tử sau
+- Phù hợp cho danh sách nhiều biến động >< Tìm kiếm sẽ lâu vì tìm tuần tự
+
+  d. Danh sách liên kết đôi
+- Các phần tử có 2 vùng liên kết
+- Lptr của L và Rptr của R là Nil
+
+7. Cấu trúc phi tuyến
+  a. Cây
+- Là tập hợp hữu hạn node có quan hệ phân cấp xuất phát từ node gốc (Root = mức 1)
+- Cây nhị phân
+  + Mỗi node chỉ có tối đa 2 node con
+  -- Số node tối đa ở mức i = 2 ^ (i-1) 
+  -- Số node tối đa trên cây có chiều cao h = 2^h - 1
+  + Lưu trữ
+  -- Bằng mảng
+      Node đánh số từ trái sang, từ trên xuống → Node con của i là 2i và 2i + 1
+      Tốn bộ nhớ, giải thuật không hiệu quả
+  -- Bằng danh sách liên kết
+  b. Đồ thị
+8. Sắp xếp
+9. Tìm kiếm
