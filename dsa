@@ -44,8 +44,8 @@
 
     5. MẢNG
 - Mảng là tập hợp có thứ tự, số lượng phần tử xác định, truy cập cùng tên
-- Mảng 1 chiều là tập hợp tuần tự phần tử cùng kiểu dữ liệu, lưu trữ trong dãy ô nhớ liên tục
-  + Địa chỉ = Base + (i-1)
+- Mảng 1 chiều ~ vector là tập hợp tuần tự phần tử cùng kiểu dữ liệu, lưu trữ trong dãy ô nhớ liên tục
+  + Địa chỉ = Base + k*(i-1)
   + Phép toán
     -- Tạo
     -- Sắp xếp
