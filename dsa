@@ -171,7 +171,7 @@
 
   e. Chèn
 - Tại bước i, so sánh A[i] (cầm canh) với lần lượt A[i-1] về A[1] để tìm vị trí chèn vào
-- Độ phức tạp = O(n^2)
+- Độ phức tạp = O(n^2) (n-1 vòng)
 
   f. Trộn
 - Liên tục chia đôi dãy cho đến khi chỉ còn 1 phần tử mỗi dãy, trộn lại và sắp xếp
