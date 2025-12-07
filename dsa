@@ -1,12 +1,13 @@
-1. Khái niệm cơ bản
+    1. CƠ BẢN
 - Dữ liệu cơ sở là dữ liệu cơ bản ban đầu, cần cho bài toán
 - Dữ liệu thứ cấp là dữ liệu có thể suy ratừ dữ liệu cơ sở
 - Cấu trúc dữ liệu là kết hợp dữ liệu cơ sở theo 1 cách nào đó (mảng/cây/đồ thị…) nhằm liên kết thành 1 thể thống nhất thuận tiện cho xử lý
 - Cấu trúc lưu trữ là phương thức biểu diễn 1 cấu trúc dữ liệu trong bộ nhớ
 - Giải thuật ~ thuật toán ~ cách giải là quy tắc chặt chẽ (hiểu 1 nghĩa) theo trình tự trên đối tượng cụ thể (1 dạng nhất định) để giải quyết 1 vấn đề
+  + Tính chất = Rõ ràng, Xác định, Chính xác, Khách quan, Phổ dụng, Kết thúc, Đơn giản
   + Cấu trúc điều khiển
     -- Tuần tự: Mỗi bước thực hiện đúng 1 lần theo trình tự
-    -- Chọn lọc: Chọn thực hiện 1 trong nhiều thao tác
+    -- Chọn lọc ~ Điều kiện: Chọn thực hiện 1 trong nhiều thao tác
     -- Chu trình: Có bước được thực hiện lặp lại
   + Phương pháp biểu diễn
     -- Bằng lời: Nắm tư tưởng chủ đạo, trừu tượng cao
@@ -17,21 +18,21 @@
   + Phần neo: Tác động đặc tả cho 1 tham số (trường hợp dừng)
   + Phần đệ quy: Tác động cần thực hiện cho giá trị hiện thời của tham số có giá trị đã được định nghĩa trước đó (tự gọi hàm)
 
-2. Độ phức tạp của thuật toán
+    2. ĐỘ PHỨC TẠP
 - Hiệu suất
   + Bộ nhớ
   + Thời gian (Kích thước đầu vào ~ quan trọng, kiểu lệnh, tốc độ máy, chất lượng chương trình dịch)
 - T(n) là hàm số phép tính mà giải thuật thực hiện
   → BigO ~ O(n) là thời gian thực hiện lâu nhất của thuật toán với mọi kích thước đầu vào
 
-3. Module hóa
+    3. MODULE HÓA
 - Module hóa là chia bài toán lớn thành các bài nhỏ hơn, ngày càng cụ thể chi tiết
 - Phân rã module là tư tưởng chính tạo nên phương hướng quan trọng (lập trình cấu trúc)
 - Phương pháp
   + Top Down: Xác định vấn đề bao quát, phân chia nhiệm vụ thành module con
   + Bottom Up: Gộp các module cùng chức năng, thiết kế thêm cho phong phú đầy đủ
 
-4. Kĩ thuật giải thuật
+    4. CÁC KĨ THUẬT
 - Chia để trị: Chia thành các bài toán con có kích thước nhỏ hơn, giải các bài con rồi tổng hợp kết quả
   + Quan trọng nhất
   + Gồm: Phân tích thành bài toán cơ sở và Tổng hợp kết quả
@@ -41,7 +42,7 @@
   + Nghịch đảo Ba Lan
   + Cắt tỉa Alpha-Beta
 
-5. Mảng
+    5. MẢNG
 - Mảng là tập hợp có thứ tự, số lượng phần tử xác định, truy cập cùng tên
 - Mảng 1 chiều là tập hợp tuần tự phần tử cùng kiểu dữ liệu, lưu trữ trong dãy ô nhớ liên tục
   + Địa chỉ = Base + (i-1)
@@ -56,7 +57,7 @@
     -- Ưu tiên cột: P(i,j) = Base + (i−1).k + (j−1).m.k
   + Phép toán: Tạo, tìm, cộng, nhân 2 chiều với 1 chiều, nhân 2 chiều
 
-6. Danh sách
+    6. DANH SÁCH → TUYẾN TÍNH
 - Là tập hợp nhiều phần tử có tính chất cấu trúc thứ tự giữa các phần tử với nhau: Nếu biết được phần tử thứ i thì sẽ biết được vị trí của phần tử thứ i+1
   + Các phần tử có thể nằm rải rác trong bộ nhớ, không liền kề nhau
   + Key là thông tin tìm kiếm
@@ -89,7 +90,7 @@
 - Các phần tử có 2 vùng liên kết
 - Lptr của L và Rptr của R là Nil
 
-7. Cấu trúc phi tuyến
+    7. PHI TUYẾN
   a. Cây
 - Là tập hợp hữu hạn node có quan hệ phân cấp xuất phát từ node gốc (Root = mức 1)
 - Cây nhị phân
@@ -135,31 +136,46 @@
   + Ưu tiên chiều rộng (BFS) = Thăm các node lần lượt theo mức từ trên xuống
   + Ưu tiên chiều sâu (DFS) = Thăm từng node con theo chiều sâu từ trái qua, từ trên xuống
 
-8. Sắp xếp
+    8. SẮP XẾP → Chỉ số chạy từ 1 đến n
 - Đánh giá giải thuật
   + Vùng nhớ nhỏ = Sử dụng hữu hiệu vùng nhớ phần tử + Hạn chế sử dụng vùng nhớ tạm
   + Thời gian nhanh = Số lần so sánh (C) + Số lần đổi chỗ (M)
-- Phân loại = Xen vào + Chọn lựa + Đổi chỗ
+- Phân loại
+  + Xen vào = Nổi bọt, chèn, chọn → Độ phức tạp O(n^2)
+  + Chọn lựa = Chèn, giảm độ tăng
+  + Đổi chỗ = Chọn, nhanh, heap → Độ phức tạp O(n^2)
 - Sắp xếp theo khóa
   + Trường khóa là trường mà ta muốn sắp xếp theo
   + Bảng khóa là bảng phụ chỉ chứa trường khóa và con trỏ tới bản ghi tương ứng trong bảng gốc
     → Sắp xếp trong bảng khóa, truy nhập bản ghi theo thứ tự qua con trỏ → Tiết kiệm bộ nhớ
 
-- Nổi bọt (cải tiến thành Shaker) ~ So sánh liên tiếp → Chậm nhất 
+  a. Nổi bọt (cải tiến thành Shaker) ~ So sánh liên tiếp → Chậm nhất 
+- Tại bước i, duyệt từ đầu đến cuối, nếu A[j] > A[j+1] thì đổi chỗ, lặp lại đến khi không xảy ra đổi chỗ
+- Độ phức tạp = O(n^2) 
 
-- Chọn → Pp trực tiếp tốt nhất
+  b. Chọn ~ MinPos → Pp trực tiếp tốt nhất
+- Tại bước i, chọn phần tử nhỏ nhất A[i] đến A[n] để đổi chỗ với A[i]
+   → Sau mỗi bước thì min đẩy lên đầu
+- Độ phức tạp = O(n^2)
 
-- Nhanh → Nhanh và tốt nhất
-  + Phần tử biên
+  c. Nhanh → Nhanh và tốt nhất
+- Chọn ngẫu nhiên A[i] (biên ~ thường lấy phần tử cuối) để chia dãy thành 3 phần > < = A[i], lặp lại đến khi cụm > và < chỉ còn 1 phần tử
+- Độ phức tạp
+  + O(n.logn) (trung bình)
+  + O(n^2) (tệ nhất khi biên là min max)
 
-- Đếm
-  + Đếm số phần tử có khóa nhỏ hơn hoặc bằng A[i]
-    → Có m phần tử thỏa mãn thì vị trí A[i] là m+1
-  + Phân tích: C=n(n-1)/2 và M=n
-- Chèn
-  + Phần tử cầm canh
-- Trộn
-  + hcujc
+  d. Đếm
+- Đếm số phần tử có khóa nhỏ hơn hoặc bằng A[i]
+  → Có m phần tử thỏa mãn thì vị trí A[i] là m+1
+- Độ phức tạp = O(n + k) với k=A[max]
+
+  e. Chèn
+- Tại bước i, so sánh A[i] (cầm canh) với lần lượt A[i-1] về A[1] để tìm vị trí chèn vào
+- Độ phức tạp = O(n^2)
+
+  f. Trộn
+- Liên tục chia đôi dãy cho đến khi chỉ còn 1 phần tử mỗi dãy, trộn lại và sắp xếp
+- Độ phức tạp = O(n.logn)
 
 9. Tìm kiếm
 - Khóa tìm kiếm (đối trị) là giá trị cần tìm kiếm ~ X
