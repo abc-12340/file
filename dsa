@@ -98,9 +98,79 @@
   -- Số node tối đa trên cây có chiều cao h = 2^h - 1
   + Lưu trữ
   -- Bằng mảng
-      Node đánh số từ trái sang, từ trên xuống → Node con của i là 2i và 2i + 1
-      Tốn bộ nhớ, giải thuật không hiệu quả
-  -- Bằng danh sách liên kết
+      → Node đánh số từ trái sang, từ trên xuống → Node con của i là 2i và 2i + 1
+      → Tốn bộ nhớ, giải thuật không hiệu quả
+  -- Bằng danh sách liên kết đôi: Trường dữ liệu, trỏ LChild tới con trái, trỏ RChild tới con phải
+- Quét cây nhị phân: 6 cách nhưng phổ biến 3 cách
+  + LNR (trung tự)
+  + NLR (tiền tự)
+  + LRN (hậu tự)
+- Cây nhị phân tìm kiếm → Mỗi node thỏa mãn: node trái nhỏ hơn, node phải lớn hơn
+- Cây nhị phân cân đối AVL
+  + Chiều cao 2 cây con tương ứng với mỗi node chênh nhau 1 đơn vị
+    → Cây nhị phân đầy đủ là cây AVL
+  + Hệ số cân đối
+    -- 00 → 2 cây con cùng chiều cao
+    -- 01 → Cây con phải cao hơn
+    -- 10 → Cây con trái cao hơn
+
   b. Đồ thị
+- Đồ thị có hướng
+  + Tập hợp hữu hạn phần tử node hay đỉnh, cùng tập hợp hữu hạn cạnh có hướng nối các đỉnh
+  + Biểu diễn
+    -- Ma trận kề → Tốn nhiều bộ nhớ
+        Ma trận vuông bậc n
+        Hàng i cột j = đường từ i đến j
+    -- Danh sách kề
+        Mảng con trỏ, mỗi con trỏ cho 1 node trong đồ thị
+        Mỗi phần tử trỏ đến đầu danh sách liên kết của node kề (dữ liệu node + liên kết chỉ node sau)
+- Đồ thị vô hướng
+  + Tập hợp hữu hạn phần tử node hay đỉnh, cùng tập hợp hữu hạn cạnh nối các đỉnh
+  + Biểu diễn
+    -- Ma trận kề = ma trận đối xứng → Cho hàng i cột j sẽ biết đường từ j đến i 
+    -- Danh sách kề → Thông tin lưu trữ bị thừa
+    -- Danh sách cạnh: Cạnh biểu diễn bằng 1 nhóm 4 ô (2 ô trên là node nối bởi cạnh, 2 ô dưới chỉ đến cạnh khác)
+- Cây là trường hợp đặc biệt của đồ thị ~ Đồ thị có hướng
+  → Quét cây
+  + Ưu tiên chiều rộng (BFS) = Thăm các node lần lượt theo mức từ trên xuống
+  + Ưu tiên chiều sâu (DFS) = Thăm từng node con theo chiều sâu từ trái qua, từ trên xuống
+
 8. Sắp xếp
+- Đánh giá giải thuật
+  + Vùng nhớ nhỏ = Sử dụng hữu hiệu vùng nhớ phần tử + Hạn chế sử dụng vùng nhớ tạm
+  + Thời gian nhanh = Số lần so sánh (C) + Số lần đổi chỗ (M)
+- Phân loại = Xen vào + Chọn lựa + Đổi chỗ
+- Sắp xếp theo khóa
+  + Trường khóa là trường mà ta muốn sắp xếp theo
+  + Bảng khóa là bảng phụ chỉ chứa trường khóa và con trỏ tới bản ghi tương ứng trong bảng gốc
+    → Sắp xếp trong bảng khóa, truy nhập bản ghi theo thứ tự qua con trỏ → Tiết kiệm bộ nhớ
+
+- Nổi bọt (cải tiến thành Shaker) ~ So sánh liên tiếp → Chậm nhất 
+
+- Chọn → Pp trực tiếp tốt nhất
+
+- Nhanh → Nhanh và tốt nhất
+  + Phần tử biên
+
+- Đếm
+  + Đếm số phần tử có khóa nhỏ hơn hoặc bằng A[i]
+    → Có m phần tử thỏa mãn thì vị trí A[i] là m+1
+  + Phân tích: C=n(n-1)/2 và M=n
+- Chèn
+  + Phần tử cầm canh
+- Trộn
+  + hcujc
+
 9. Tìm kiếm
+- Khóa tìm kiếm (đối trị) là giá trị cần tìm kiếm ~ X
+- Tuần tự (đơn giản, cổ điển)
+  + Lần lượt so sánh khóa với X cho đến khi tìm được hoặc hết bảng
+  + Độ phức tạp = O(n)
+- Nhị phân (thông dụng)
+  + Sắp xếp, lấy khóa [(k+m)/2] so sánh với X, xác định đoạn mới cho đến khi tìm được hoặc còn 1 phần tử
+    -- Ban đầu k=1, m=n
+    -- Khóa < X → k=i, m=n
+    -- Khóa > X → k=1, m=i-1
+  + Độ phức tạp = O(log(2)n)
+- Dựa vào giá trị khóa: Bằng quy tắc, biến đổi bản ghi thành địa chỉ tương đối để lưu trữ và tìm kiếm
+  → Hàm băm
