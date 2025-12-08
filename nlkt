@@ -1,1 +1,163 @@
+   CHẤT LƯỢNG THÔNG TIN KẾ TOÁN
+- Khách quan, trung thực → Không bị chi phối chủ quan
+- Đầy đủ → Đủ thông tin tài sản, nợ, vốn chủ sở hữu và KQKD trong kì
+- Kịp thời → Ghi chép báo cáo số liệu đúng/ trước thời hạn
+- Dễ hiểu → Dễ nắm được và so sánh giữa các kì
 
+    NGHỀ KẾ TOÁN                          (THIẾU)
+- Công chức 
+- Tư nhân
+- Nhà nước
+- Pháp lý
+
+    ĐẠO ĐỨC KẾ TOÁN
+- Chính trực → Thẳng thắn, trung thực
+- Khách quan → Không thiên vị, xung đột lợi ích
+- Chuyên môn và thận trọng → Cẩn thận, chất lượng về chuyên môn, pháp luật, kĩ thuật
+- Bảo mật → Bảo vệ thông tin kinh doanh
+- Tư cách nghề → Tuân thủ luật, tránh giảm uy tín
+
+    GIẢ ĐỊNH VÀ NGUYÊN TẮC CHUNG (GAAP)      (THIẾU)
+- VAS, thông tư 200/Bộ Tài chính
+- Giả định
+  + Thực thể kinh doanh
+  + Hoạt động liên tục
+  + Thước đo tiền tệ
+  + Kì kế toán
+- Nguyên tắc
+
+    PHƯƠNG TRÌNH KẾ TOÁN
+- Cơ bản → Tài sản = Nợ phải trả + Vốn chủ sở hữu
+- Mở rộng → Tài sản = Nợ phải trả + (Vốn góp - Rút vốn) + (Doanh thu - Chi phí)
+
+    PHÂN LOẠI TÀI SẢN VÀ NGUỒN VỐN
+    → Thể hiện ở bảng cân đối kế toán (thời điểm, viết thanh khoản giảm dần)
+- Tài sản ~ Sở hữu lâu, xác định giá trị, đem lợi ích
+  + Ngắn hạn
+    -- Tiền, phải thu/trả trước
+    -- Công cụ/nguyên liệu, hàng hóa, tồn kho
+    -- Đầu tư ngắn (<12 tháng, cổ/trái/liên doanh)
+    -- Thuế đầu vào khấu trừ
+    -- Dự phòng giảm giá/khó đòi (âm)
+  + Dài hạn
+    -- Tài sản cố định
+    -- Bất động sản
+    -- Đầu tư dài (công ty con/liên kết/liên doanh), dở dang
+    -- Khấu hao tài sản (âm)
+- Nguồn vốn
+  + Nợ phải trả ~ Phát sinh quá khứ, trả bằng nguồn lực
+    -- Thuế đầu ra
+    -- Phải trả/nhận trước, vay
+    -- Ký quỹ (ngắn), quỹ khen thưởng phúc lợi (ngắn), quỹ phát triển KHCN (dài)
+    -- Dự phòng bảo hành/tái cơ cấu/hoàn trả
+  + Vốn chủ sở hữu: Vốn góp, quỹ thuộc chủ sở hữu, lợi nhuận
+
+    QUY TẮC GHI NỢ/CÓ
+    → Thể hiện ở bảng cân đối thử (dư nợ = dư có, liệt kê tất cả TK số dư, thời điểm)
+- Tài sản + Chi phí + Rút vốn (cổ tức) → Tăng nợ, giảm có
+- Nợ phải trả + Doanh thu + Vốn góp → Tăng có, giảm nợ
+
+    TÍNH NỘI DUNG BÁO CÁO KẾT QUẢ KINH DOANH
+    → Kết quả từ doanh thu và chi phí (thời kì)
+- Doanh thu thuần = Doanh thu bán hàng - Khoản giảm trừ (trả, giảm, chiết khấu)
+- Doanh thu gộp = Doanh thu thuần - Giá vốn
+- Lợi nhuận kinh doanh = Doanh thu gộp + Doanh thu lãi - Chi phí lãi - Chi phí hoạt động
+- Doanh thu khác = Cho thuê tài sản
+- Chi phí khác = Thanh lý tài sản + Lỗ, phạt
+- Lợi nhuận trước thuế = Lợi nhuận kinh doanh + Doanh thu khác - Chi phí khác
+
+    BÚT TOÁN
+  1. Định khoản (ghi nhật kí chung) → Dựa theo quy tắc ghi nợ/có
+
+  2. Điều chỉnh cuối kì           (THIẾU)
+- Tài khoản điều chỉnh là tài khoản mang dấu âm (dự phòng, khấu hao)
+
+  3. Khóa sổ cuối kì
+- Kết chuyển số dư TK tạm thời (doanh thu, chi phí, cổ tức)
+  + Kết chuyển doanh thu: Nợ Doanh thu, Có KQKD
+  + Kết chuyển chi phí: Nợ KQKD, Có Chi phí
+- Rút ra TK Lợi nhuận chưa phân phối
+  + Lãi: Nợ KQKD, Có Lợi nhuận
+  + Lỗ: Nợ Lợi nhuận, Có KQKD
+
+  4. Sửa
+- Sai ít (sai 1 TK): Ghi ngược TK sai, bổ sung TK đúng
+- Sai nhiều (sai 2 TK): Ghi ngược cả định khoản (xóa), định khoản lại
+
+    HÀNG TỒN KHO
+  1. Tính giá vốn
+- Giá vốn = Tồn đầu kì + Mua trong kì - Tồn cuối kì
+  (Mua trong kì = Giá mua - Giảm giá/chiết khấu mua + Chi phí mua)
+- Phân loại
+  + Thực tế đích danh
+    -- Chính xác nhất, check theo từng sản phẩm
+    -- Chỉ hợp với bán ít, hàng giá trị cao
+  + Giá giả định → Bán nhiều, giá trị không cao
+    -- FIFO: Mua trước bán trước
+    -- LIFO: Mua sau bán trước (SIÊU CHÚ Ý)
+    -- AVCO: Tính tổng giá hàng mua vào → Chia trung bình → Nhân tổng hàng bán ra
+- Kiểm kê định kì
+  + Bán nhiều, giá thấp
+  + Tính cuối kì, không định khoản
+  + GỘP HẾT MUA XẾP TRƯỚC, BÁN XẾP SAU (bỏ qua thời gian)
+- Kê khai thường xuyên
+  + Bán ít, giá cao
+  + Tính ngay khi bán để định khoản
+  + XÉT HOẠT ĐỘNG MUA BÁN TỪNG NGÀY
+- Nhận xét
+  + Giá vốn FIFO và AVCO giống nhau, LIFO khác nhau
+  + Khi lạm phát ~ đơn giá tăng dần → Giá vốn LIFO > AVCO > FIFO
+    → Lợi nhuận gộp và giá hàng tồn LIFO < AVCO < FIFO
+
+  2. Mua hàng
+- Mua về: Nợ TK Hàng (cả ship)/Thuế, Có TK Tiền/Phải trả
+- Giảm/trả: Nợ TK Tiền/Phải trả, Có TK Hàng/Thuế
+- Chiết khấu mua: Nợ TK Phải trả, Có TK Hàng/Thuế → Trả nợ
+- Xuất kho nguyên vật liệu: Nợ TK CPSX, Có TK Nguyên liệu
+
+  3. Bán hàng
+- Bán đi
+  + Doanh thu: Nợ TK Tiền/Phải thu, Có TK Doanh thu/Thuế
+  + Giá vốn: Nợ TK Giá vốn, Có TK Hàng
+- Giảm/trả
+  + Doanh thu: Nợ TK Hàng bị trả, giảm/Thuế, Có TK Tiền/Phải thu
+  + Giá vốn: Nợ TK Hàng, Có TK Giá vốn
+- Chiết khấu bán: Nợ TK Chiết khấu/Thuế, Có TK Phải thu → Thu nợ
+- Xuất kho tiêu thụ: Nợ TK Giá vốn/Hàng gửi, Có TK Hàng (tính theo giá vốn, kệ đề cho giá bán)
+  
+    PHẢI THU
+
+    TÀI SẢN CỐ ĐỊNH
+
+    PHẢI TRẢ
+
+    VỐN CHỦ SỞ HỮU
+
+    LÝ THUYẾT
+- Phân biệt
+  + Khách hàng ứng trước → Cùng trong năm, cho hàng hóa  
+  + Doanh thu nhận trước → Sang năm khác, cho dịch vụ
+- Kế toán → Ngôn ngữ kinh doanh
+  + NHẬN BIẾT sự kiện kinh tế
+  + ĐO LƯỜNG VÀ GHI CHÉP thông tin về sự kiện theo thời gian, bằng tiền tệ
+  + CUNG CẤP THÔNG TIN cho người sử dụng qua báo cáo kế toán, phân tích thông tin
+- Hoạt động doanh nghiệp
+  + Tài chính → Huy động tiền (VỐN)
+  + Đầu tư → Sử dụng tiền mua nguồn lực dài hạn (TÀI SẢN DÀI HẠN)
+  + Kinh doanh → Hoạt động tạo ra doanh thu, chi phí, lợi nhuận
+- Người sử dụng 
+  + Thông tin bên trong
+    -- Dùng kế toán quản trị → bộ phận, kì linh hoạt, quy tắc tự tạo
+    -- Cổ đông, quản lý, công nhân viên
+  + Thông tin bên ngoài
+    -- Dùng kế toán tài chính → toàn bộ, kì theo quý/năm, nguyên tắc GAAP
+    -- Khách hàng, cơ quan thuế, nhà đầu tư, đối thủ, tổ chức tín dụng
+- Báo cáo tài chính
+  + Bảng CĐKT, báo cáo KQKD
+  + Báo cáo lưu chuyển tiền → Luồng tiền vào, ra và số tiền còn lại (thời kì)
+  + Thuyết minh BCTC → Giải thích bổ sung thông tin
+  + Báo cáo vốn chủ sở hữu (nước ngoài) → Biến động vốn (thời kì)
+- Chu trình = Thu thập bằng chứng, cơ sở → Ghi sổ kép (định khoản), ghi sổ cái (chữ T) → Điều chỉnh cuối kì → Bảng cân đối thử → Báo cáo tài chính → Khóa sổ
+- Hàng tồn kho
+  + Công ty thương mại = Hàng, hàng mua đi đường FOB điểm đi, hàng bán đi đường FOB điểm đến, hàng đi gửi bán
+  + Công ty sản xuất = Nguyên liệu, công cụ, sản phẩm dở dang, thành phẩm
