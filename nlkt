@@ -1,14 +1,22 @@
-   CHẤT LƯỢNG THÔNG TIN KẾ TOÁN
+    KẾ TOÁN
+    → Ngôn ngữ kinh doanh
+- Chức năng 
+  + NHẬN BIẾT sự kiện kinh tế
+  + ĐO LƯỜNG VÀ GHI CHÉP thông tin về sự kiện theo thời gian, bằng tiền tệ
+  + CUNG CẤP THÔNG TIN cho người sử dụng qua báo cáo kế toán, phân tích thông tin
+- Chu trình = Thu thập bằng chứng, cơ sở → Ghi sổ kép (định khoản), ghi sổ cái (chữ T) → Điều chỉnh cuối kì → Bảng cân đối thử → Báo cáo tài chính → Khóa sổ
+
+    CHẤT LƯỢNG THÔNG TIN KẾ TOÁN
 - Khách quan, trung thực → Không bị chi phối chủ quan
 - Đầy đủ → Đủ thông tin tài sản, nợ, vốn chủ sở hữu và KQKD trong kì
 - Kịp thời → Ghi chép báo cáo số liệu đúng/ trước thời hạn
 - Dễ hiểu → Dễ nắm được và so sánh giữa các kì
 
-    NGHỀ KẾ TOÁN                          (THIẾU)
-- Công chức 
-- Tư nhân
-- Nhà nước
-- Pháp lý
+    NGHỀ KẾ TOÁN
+- Công chức → Dịch vụ thuế, kiểm toán, tư vấn quản lý
+- Tư nhân → Nhân viên doanh nghiệp (người lao động)
+- Nhà nước → Thu thập xử lý thông tin về bộ máy nhà nước
+- Pháp lý → Điều tra gian lận bằng kĩ năng kế kiểm, điều tra
 
     ĐẠO ĐỨC KẾ TOÁN
 - Chính trực → Thẳng thắn, trung thực
@@ -17,7 +25,7 @@
 - Bảo mật → Bảo vệ thông tin kinh doanh
 - Tư cách nghề → Tuân thủ luật, tránh giảm uy tín
 
-    GIẢ ĐỊNH VÀ NGUYÊN TẮC CHUNG (GAAP)      (THIẾU)
+    GIẢ ĐỊNH VÀ NGUYÊN TẮC CHUNG (GAAP)
 - VAS, thông tư 200/Bộ Tài chính
 - Giả định
   + Thực thể kinh doanh
@@ -50,7 +58,7 @@
     -- Phải trả/nhận trước, vay
     -- Ký quỹ (ngắn), quỹ khen thưởng phúc lợi (ngắn), quỹ phát triển KHCN (dài)
     -- Dự phòng bảo hành/tái cơ cấu/hoàn trả
-  + Vốn chủ sở hữu: Vốn góp, quỹ thuộc chủ sở hữu, lợi nhuận
+  + Vốn chủ sở hữu: Vốn góp, quỹ dự phòng tài chính/ đầu tư phát triển, lợi nhuận
 
     QUY TẮC GHI NỢ/CÓ
     → Thể hiện ở bảng cân đối thử (dư nợ = dư có, liệt kê tất cả TK số dư, thời điểm)
@@ -60,17 +68,76 @@
     TÍNH NỘI DUNG BÁO CÁO KẾT QUẢ KINH DOANH
     → Kết quả từ doanh thu và chi phí (thời kì)
 - Doanh thu thuần = Doanh thu bán hàng - Khoản giảm trừ (trả, giảm, chiết khấu)
-- Doanh thu gộp = Doanh thu thuần - Giá vốn
-- Lợi nhuận kinh doanh = Doanh thu gộp + Doanh thu lãi - Chi phí lãi - Chi phí hoạt động
-- Doanh thu khác = Cho thuê tài sản
-- Chi phí khác = Thanh lý tài sản + Lỗ, phạt
-- Lợi nhuận trước thuế = Lợi nhuận kinh doanh + Doanh thu khác - Chi phí khác
+- Lợi nhuận gộp = Doanh thu thuần - Giá vốn
+- Doanh thu khác = Doanh thu lãi + Cho thuê tài sản
+- Chi phí khác = Chi phí lãi + Thanh lý tài sản + Lỗ, phạt
+- Lợi nhuận thuần (kinh doanh) = Doanh thu gộp + Doanh thu khác - Chi phí hoạt động - Chi phí khác
+  (Lợi nhuận thuần có thể ~ Lợi nhuận trước thuế HOẶC không gồm DT và CP lãi) 
+
+    CHỈ TIÊU
+- FOB điểm đi → Bên mua trả vận chuyển
+- FOB điểm đến → Bên bán trả vận chuyển
+
+- Tỉ suất lợi nhuận gộp trên DT thuần (Lợi nhuận biên) = Lợi nhuận gộp / Doanh thu thuần
+  → 1 đồng doanh thu tạo ? đồng lợi nhuận gộp (cao = tốt)
+- Tỉ suất giá vốn trên DT thuần = 1 - Lợi nhuận biên
+  → Giá vốn chiếm ? % doanh thu (thấp = tốt)
+- Tỉ suất lợi nhuận thuần = Lợi nhuận thuần / Doanh thu thuần
+  → 1 đồng doanh thu tạo ? đồng lợi nhuận thuần (cao = tốt)
+
+- Hiệu suất luân chuyển hàng tồn (Số lần ~ Vòng quay) = Giá vốn / Hàng tồn bình quân
+  → Cao = tốt, cao quá thành thiếu hàng
+- Số ngày bán hàng tồn = 365 / Hiệu suất luân chuyển
+  → Nhỏ = tốt
+
+- Số lần thu nợ (Vòng quay) = Doanh thu thuần / Phải thu bình quân
+  → 1 năm thu nợ được ? lần (cao = tốt)
+- Thời gian (kì) thu nợ = 365 / Số lần thu nợ (ngày)
+  → Mất ? ngày để thu hồi nợ (nhỏ = tốt)
+
+- ROA = Lợi nhuận thuần / Tổng tài sản bình quân
+  → 1 đồng tài sản tạo ? đồng lợi nhuận (cao = tốt)
+- Hiệu suất sử dụng TSCĐ (Vòng quay TSCĐ) = Doanh thu thuần / Tổng TSCĐ bình quân
+  → 1 đồng TSCĐ tạo ? đồng doanh thu (cao = tốt)
+- Hiệu suất sử dụng tổng tài sản (Vòng quay tài sản) = Doanh thu thuần / Tổng tài sản bình quân
+  → 1 đồng tài sản tạo ? đồng doanh thu (cao = tốt)
+
+- Hệ số thanh toán nhanh ngắn (CR) = Tài sản ngắn hạn / Nợ ngắn hạn
+  → 1 đồng nợ được đảm bảo bằng ? đồng tài sản (>1 là tốt, cao quá khó sinh lời)
+  ~ Vốn lưu đồng ròng (thuần) = Tài sản ngắn hạn - Nợ ngắn hạn (>0 là tốt)
+- Hệ số thanh toán nhanh (QR) = (Tài sản ngắn hạn - Hàng tồn) / Nợ ngắn hạn
+                              = (Tiền + Đầu tư ngắn + Phải thu) / Nợ ngắn hạn
+  → Khả năng thanh toán nợ bằng tài sản có thể chuyển thành tiền nhanh (>1 là tốt)
+
+- Lợi nhuận trên vốn chủ sở hữu (ROE) = Lợi nhuận thuần / Vốn chủ bình quân
+  → Cao = tốt, cao quá thành rủi ro nhiều
+- Lợi nhuận trên 1 cổ phiếu (EPS) = Lợi nhuận cổ đông thường / Số cổ phần lưu hành
+  → Cao = tốt
 
     BÚT TOÁN
   1. Định khoản (ghi nhật kí chung) → Dựa theo quy tắc ghi nợ/có
 
-  2. Điều chỉnh cuối kì           (THIẾU)
-- Tài khoản điều chỉnh là tài khoản mang dấu âm (dự phòng, khấu hao)
+  2. Điều chỉnh cuối kì
+- TK điều chỉnh là tài khoản mang dấu âm (dự phòng, khấu hao, cổ phiểu quỹ)
+- Chi phí trả trước ~ Tài sản
+  + Văn phòng phẩm
+    -- Phát sinh: Nợ TK VPP, Có TK Tiền
+    -- Cuối kì: Nợ TK Chi phí VPP, Có TK VPP
+  + Bảo hiểm/đi thuê
+    -- Phát sinh: Nợ TK Chi phí bảo hiểm/thuê trả trước, Có TK Tiền
+    -- Cuối kì: Nợ TK Chi phí bảo hiểm/thuê, Có TK Chi phí bảo hiểm/thuê trả trước
+  + Khấu hao
+    -- Phát sinh: Nợ TK TSCĐ, Có TK Tiền
+    -- Cuối kì: Nợ TK Chi phí khấu hao, Có TK Khấu hao lũy kế
+- Doanh thu chưa thực hiện ~ Nợ phải trả
+  + Phát sinh: Nợ TK Tiền, Có TK Doanh thu chưa thực hiện
+  + Cuối kì: Nợ TK Doanh thu chưa thực hiện, Có TK Doanh thu dịch vụ
+- Chi phí phải trả dồn tích (Chi phí lãi) ~ Nợ phải trả
+  + Cuối mỗi kì: Nợ TK Chi phí lãi vay, Có TK Chi phí lãi vay phải trả
+  + Trả nợ: Nợ TK Chi phí lãi vay phải trả, Có TK Tiền
+- Doanh thu sẽ nhận dồn tích (Doanh thu lãi) ~ Phải thu
+  + Cuối mỗi kì: Nợ TK Phải thu lãi tiền gửi, Có TK Doanh thu lãi tiền gửi
+  + Thu nợ: Nợ TK Tiền, Có TK Phải thu lãi tiền gửi
 
   3. Khóa sổ cuối kì
 - Kết chuyển số dư TK tạm thời (doanh thu, chi phí, cổ tức)
@@ -85,6 +152,8 @@
 - Sai nhiều (sai 2 TK): Ghi ngược cả định khoản (xóa), định khoản lại
 
     HÀNG TỒN KHO
+    → Công ty thương mại = Hàng, hàng mua đi đường FOB điểm đi, hàng bán đi đường FOB điểm đến, hàng đi gửi bán
+    → Công ty sản xuất = Nguyên liệu, công cụ, sản phẩm dở dang, thành phẩm
   1. Tính giá vốn
 - Giá vốn = Tồn đầu kì + Mua trong kì - Tồn cuối kì
   (Mua trong kì = Giá mua - Giảm giá/chiết khấu mua + Chi phí mua)
@@ -109,13 +178,13 @@
   + Khi lạm phát ~ đơn giá tăng dần → Giá vốn LIFO > AVCO > FIFO
     → Lợi nhuận gộp và giá hàng tồn LIFO < AVCO < FIFO
 
-  2. Mua hàng
+  2. Mua
 - Mua về: Nợ TK Hàng (cả ship)/Thuế, Có TK Tiền/Phải trả
 - Giảm/trả: Nợ TK Tiền/Phải trả, Có TK Hàng/Thuế
 - Chiết khấu mua: Nợ TK Phải trả, Có TK Hàng/Thuế → Trả nợ
 - Xuất kho nguyên vật liệu: Nợ TK CPSX, Có TK Nguyên liệu
 
-  3. Bán hàng
+  3. Bán
 - Bán đi
   + Doanh thu: Nợ TK Tiền/Phải thu, Có TK Doanh thu/Thuế
   + Giá vốn: Nợ TK Giá vốn, Có TK Hàng
@@ -124,27 +193,139 @@
   + Giá vốn: Nợ TK Hàng, Có TK Giá vốn
 - Chiết khấu bán: Nợ TK Chiết khấu/Thuế, Có TK Phải thu → Thu nợ
 - Xuất kho tiêu thụ: Nợ TK Giá vốn/Hàng gửi, Có TK Hàng (tính theo giá vốn, kệ đề cho giá bán)
-  
-    PHẢI THU
 
     TÀI SẢN CỐ ĐỊNH
+    → Nguyên giá = Giá + Thuế không hoàn + Chi phí vận chuyển, lắp đặt, chạy thử - Chiết khấu/giảm giá
+    → Chi phí bảo hiểm khi vận chuyển là nguyên giá, khi sử dụng là chi phí trả trước
+  1. Tăng TSCĐ
+- Mua dùng ngay: Nợ TK TSCĐHH/Thuế, Có TK Phải trả/Tiền
+- Mua chưa dùng: Nợ TK Chi phí mua sắm TSCĐ/Thuế, Có TK Phải trả/Tiền
+  → Khi dùng: Nợ TK TSCĐHH, Có TK Chi phí mua sắm
+- Nhận TS vốn góp: Nợ TK TSCĐHH, Có TK Vốn góp
+- Được tặng: Nợ TK TSCĐHH, Có TK Thu nhập khác
+
+  2. Giảm TSCĐ
+- Khấu hao: Nợ TK Chi phí khấu hao, Có TK Khấu hao lũy kế
+- Xóa sổ: Nợ TK Khấu hao lũy kế/Chi phí khác (giá trị còn), Có TK TSCĐHH
+- Thu nhượng bán: Nợ TK Tiền/Phải thu, Có TK Thu nhập khác/Thuế
+- Chi phí liên quan: Nợ TK Chi phí khác/Thuế, Có TK Tiền/Phải trả
+
+  3. Sửa
+- Nhỏ (bảo dưỡng): Nợ TK Chi phí sửa/Thuế, Có TK Phải trả/Tiền
+- Lớn (nâng cấp): Nợ TK Sửa chữa/Thuế, Có TK Phải trả/Tiền
+  → Sửa xong: Nợ TK TSCĐHH, Có TK Sửa chữa
+
+  4. Khấu hao → Không tính cho đất, tài sản không thời hạn
+- Tính: Giá trị phải khấu hao = Nguyên giá - Giá trị thu hồi (giá khi thanh lí) (~0)
+  + Đường thẳng: Mức khấu hao năm = Giá trị phải khấu hao/Số năm
+  + Theo sản lượng: 
+    -- Mức bình quân = Giá trị phải khấu hao/Tổng sản lượng ước tính
+    -- Mức khấu hao năm = Sản lượng thực x Mức bình quân
+  + Nhanh ~ Số dư giảm dần (Riêng kì cuối chỉnh khấu hao theo giá trị thu hồi)
+    -- Tỉ lệ = Tỉ lệ khấu hao đường thẳng x Hệ số điều chỉnh/khấu hao nhanh (~2)
+    -- Mức khấu hao năm = Giá trị còn lại đầu kì x Tỉ lệ
+→ Thời gian đầu thì NHANH khấu hao nhiều hơn, thời gian sau THẲNG khấu hao nhiều hơn
+
+    PHẢI THU
+  1. Thương phiếu
+- Tính
+  + Thương phiếu theo ngày thì 1 năm = 360 ngày, 1 tháng = 30 ngày
+  + Lãi = Nợ gốc x Lãi suất x Thời hạn
+  + Giá trị đáo hạn = Nợ gốc + Lãi
+  + Chiết khấu = Giá trị đáo hạn x Lãi chiết khấu x Thời hạn nợ còn
+  + Tiền nhận sau chiết khấu = Giá trị đáo hạn - Chiết khấu
+- Định khoản
+  + Nhận ThP: Nợ TK ThP phải thu, Có TK Doanh thu/Phải thu
+  + Nhận lãi (chưa đáo hạn): Nợ TK Lãi ThP phải thu, Có TK Doanh thu lãi ThP
+  + Đáo hạn:
+    Nợ TK Tiền(gốc+lãi)
+    Có TK ThP phải thu(gốc)/Lãi ThP phải thu(tổng lãi trước)/Doanh thu lãi ThP(lãi kì cuối)
+  + Chiết khấu:
+    -- Nhận > Nợ gốc: Nợ TK Tiền, Có TK ThP phải thu/Doanh thu lãi ThP
+    -- Nhận < Nợ gốc: Nợ TK Tiền/Chi phí lãi ThP, Có TK ThP phải thu
+
+  2. Khó đòi
+- Xóa sổ trực tiếp
+  + Không thỏa mãn ngtac phù hợp (chỉ dùng khi khách tù, trốn, mất, phá sản)
+  + Nợ TK Chi phí phải thu khó đòi, Có TK Phải thu
+- Dự phòng
+  + Tính
+    -- Doanh thu chưa thu tiền (không trừ số dư đầu kì)
+    -- Nợ phải thu ~ Tuổi nợ (trừ số dư đầu kì)
+  + Nợ TK Chi phí phải thu khó đòi, Có TK Dự phòng nợ phải thu khó đòi
+
+  3. Khác
+- Tạm ứng
+  + Khi ứng: Nợ TK Tạm ứng, Có TK Tiền
+  + Khi trả: Nợ TK Hàng/Nguyên liệu/TSCĐ, Nợ TK Tiền(thừa), Nợ TK Trả NLĐ (thiếu), Có TK Tạm ứng
+- Ứng trước: 
+  + Khi ứng: Nợ TK Ứng trước, Có TK Tiền
+  + Khi nhận: Nợ TK Hàng/Nguyên liệu/Thuế, Nợ TK Tiền (thừa), Có TK Ứng trước
+- Vãng lai: Nợ TK Phải thu khác, Có TK Tiền/Nguyên liệu
+- Kiểm kê thiếu: Nợ TK Phải thu khác, Có TK Hàng
+- Kiểm kê thừa: Nợ TK Hàng, Có TK Phải trả khác
 
     PHẢI TRẢ
+  1. Thuế
+- Thuế GTGT
+  + Khấu trừ (theo số nhỏ): Nợ TK Thuế đầu ra, Có TK Thuế đầu vào
+  + Vào < Ra → Nộp thuế: Nợ TK Thuế đầu ra, Có TK Tiền
+  + Vào > Ra
+    -- Hoàn thuế: Nợ TK Tiền, Có TK Thuế đầu vào
+    -- Khấu trừ năm sau
+- Thuế TNDN
+  + Tính thuế: Nợ TK Chi phí thuế, Có TK Thuế TNDN
+  + Nộp thuế: Nợ TK Thuế TNDN, Có TK Tiền
+
+  2. Trả lương
+- Tổng lương = Lương thuần + Thuế + Bảo hiểm (XH, y tế, thất nghiệp)
+  + Người lao động 10% chịu XH 8%, y tế 1.5%, thất nghiệp 1%
+  + Doanh nghiệp chịu 21.5% XH 17.5%, y tế 3%, thất nghiệp 1%
+- Định khoản
+  + Tiền trả lao động
+    Nợ TK Chi phí lương (tổng)
+    Có TK Bảo hiểm (lao động chịu)/Thuế/Phải trả (thuần)
+  + Tiền đóng cho lao động: Nợ TK Chi phí lương, Có TK Bảo hiểm (doanh nghiệp chịu)
+  + Trả lương: Nợ TK Phải trả, Có TK Tiền
+  + Nộp bảo hiểm: Nợ TK Bảo hiểm (doanh nghiệp chịu), Có TK Tiền
 
     VỐN CHỦ SỞ HỮU
+  1. Cổ phiếu
+- Công ty cổ phần (niêm yết ~ đại chúng, không niêm yết) phát hành
+- Nguồn vốn = Nợ phải trả (trái phiếu) + vốn chủ sở hữu (cổ phiếu)
+- Phân loại
+  + Thường → Trả cổ tức khi có lãi
+  + Ưu đãi → Không được biểu quyết, trả cổ tức hàng năm
+  + Quỹ → cổ phiếu thường đã phát hành được công ty mua lại
+- Thặng dư vốn cổ phần = (Thị giá - Mệnh giá~10k) x Số cổ phiếu phát hành
+
+  2. Định khoản
+- Phát hành thường ~ ưu đãi
+  + Thị = Mệnh: Nợ TK Tiền (thị), Có TK Cổ phiếu thường (mệnh)
+  + Thị > Mệnh: Nợ TK Tiền, Có TK Cổ phiếu thường/Thặng dư vốn
+  + Thị < Mệnh: Nợ TK Tiền/Thặng dư vốn/Lợi nhuận chưa phân phối, Có TK Cổ phiếu thường
+    (Ghi Lợi nhuận khi Thặng dư vốn không đủ bù chênh lệch)
+- Cổ phiếu quỹ 
+  + Mua cổ phiếu quỹ: Nợ TK Cổ phiếu quỹ, Có TK Tiền
+  + Bán lại cổ phiếu quỹ: Nợ TK Tiền, Có TK Cổ phiếu quỹ
+- Cổ tức (tiền, cổ phiếu, tài sản, hàng)
+  + Bằng tiền
+    -- Ngày thông báo: Nợ TK Lợi nhuận (Lượng x Mệnh x Tỉ lệ), Có TK Cổ tức phải trả
+    -- Ngày chốt danh sách → Giao dịch không hưởng quyền (mua không được trả, bán vẫn được trả cổ tức)
+    -- Ngày trả cổ tức: Nợ TK Cổ tức phải trả, Có TK Tiền gửi
+  + Bằng cổ phiếu
+    -- Ngày thông báo: Nợ TK Lợi nhuận, Có TK Cổ tức bằng CP phải phân phối
+        (Tỉ lệ <20% → Trả theo thị ~ Có thể có Thặng dư vốn; Tỉ lệ >25% → Trả theo mệnh)
+    -- Ngày chốt danh sách
+    -- Ngày trả cổ tức: Nợ TK Cổ tức bằng CP phải phân phối, Có TK Cổ phiếu thường
+- Trích quỹ từ lợi nhuận: Nợ TK Lợi nhuận, Có TK Quỹ
 
     LÝ THUYẾT
-- Phân biệt
-  + Khách hàng ứng trước → Cùng trong năm, cho hàng hóa  
-  + Doanh thu nhận trước → Sang năm khác, cho dịch vụ
-- Kế toán → Ngôn ngữ kinh doanh
-  + NHẬN BIẾT sự kiện kinh tế
-  + ĐO LƯỜNG VÀ GHI CHÉP thông tin về sự kiện theo thời gian, bằng tiền tệ
-  + CUNG CẤP THÔNG TIN cho người sử dụng qua báo cáo kế toán, phân tích thông tin
-- Hoạt động doanh nghiệp
-  + Tài chính → Huy động tiền (VỐN)
-  + Đầu tư → Sử dụng tiền mua nguồn lực dài hạn (TÀI SẢN DÀI HẠN)
-  + Kinh doanh → Hoạt động tạo ra doanh thu, chi phí, lợi nhuận
+- Báo cáo tài chính
+  + Bảng CĐKT, báo cáo KQKD
+  + Báo cáo lưu chuyển tiền → Luồng tiền vào, ra và số tiền còn lại (thời kì)
+  + Thuyết minh BCTC → Giải thích bổ sung thông tin
+  + Báo cáo vốn chủ sở hữu (nước ngoài) → Biến động vốn (thời kì)
 - Người sử dụng 
   + Thông tin bên trong
     -- Dùng kế toán quản trị → bộ phận, kì linh hoạt, quy tắc tự tạo
@@ -152,12 +333,14 @@
   + Thông tin bên ngoài
     -- Dùng kế toán tài chính → toàn bộ, kì theo quý/năm, nguyên tắc GAAP
     -- Khách hàng, cơ quan thuế, nhà đầu tư, đối thủ, tổ chức tín dụng
-- Báo cáo tài chính
-  + Bảng CĐKT, báo cáo KQKD
-  + Báo cáo lưu chuyển tiền → Luồng tiền vào, ra và số tiền còn lại (thời kì)
-  + Thuyết minh BCTC → Giải thích bổ sung thông tin
-  + Báo cáo vốn chủ sở hữu (nước ngoài) → Biến động vốn (thời kì)
-- Chu trình = Thu thập bằng chứng, cơ sở → Ghi sổ kép (định khoản), ghi sổ cái (chữ T) → Điều chỉnh cuối kì → Bảng cân đối thử → Báo cáo tài chính → Khóa sổ
-- Hàng tồn kho
-  + Công ty thương mại = Hàng, hàng mua đi đường FOB điểm đi, hàng bán đi đường FOB điểm đến, hàng đi gửi bán
-  + Công ty sản xuất = Nguyên liệu, công cụ, sản phẩm dở dang, thành phẩm
+- Phân biệt
+  + Khách hàng ứng trước → Cùng trong năm, cho hàng hóa  
+  + Doanh thu nhận trước → Nhiều kì, cho dịch vụ
+- Hoạt động doanh nghiệp
+  + Tài chính → Huy động tiền (VỐN)
+  + Đầu tư → Sử dụng tiền mua nguồn lực dài hạn (TÀI SẢN DÀI HẠN)
+  + Kinh doanh → Hoạt động tạo ra doanh thu, chi phí, lợi nhuận
+- Phân loại doanh nghiệp
+  + Mục đích = Lợi nhuận + Phi lợi nhuận
+  + Chủ sở hữu = 1 thành viên + Hợp danh + Cổ phần (niêm yết, không niêm yết)
+- Lợi nhuận chưa phân phối → Trả cổ tức/ Trích lập quỹ/ Phục vụ kinh doanh
