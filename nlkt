@@ -158,8 +158,8 @@
   + Phát sinh: Nợ TK Tiền, Có TK Doanh thu chưa thực hiện
   + Cuối kì: Nợ TK Doanh thu chưa thực hiện, Có TK Doanh thu dịch vụ
 - Chi phí phải trả dồn tích (Chi phí lãi) ~ Nợ phải trả
-  + Cuối mỗi kì: Nợ TK Chi phí lãi vay, Có TK Chi phí lãi vay phải trả
-  + Trả nợ: Nợ TK Chi phí lãi vay phải trả, Có TK Tiền
+  + Cuối mỗi kì: Nợ TK Chi phí lãi vay, Có TK Lãi vay phải trả
+  + Trả nợ: Nợ TK Lãi vay phải trả, Có TK Tiền
 - Doanh thu sẽ nhận dồn tích (Doanh thu lãi) ~ Phải thu
   + Cuối mỗi kì: Nợ TK Phải thu lãi tiền gửi, Có TK Doanh thu lãi tiền gửi
   + Thu nợ: Nợ TK Tiền, Có TK Phải thu lãi tiền gửi
