@@ -139,7 +139,7 @@
   → Cao = tốt, cao quá thành rủi ro nhiều
 - Lợi nhuận trên 1 cổ phiếu (EPS) = Lợi nhuận cổ đông thường / Số cổ phần lưu hành
   → Cao = tốt
-- Tỉ lệ chi trả cổ tức (DPR) = Cổ tức nhận được / Thị giá
+- Tỉ lệ chi trả cổ tức (DPR) = Cổ tức nhận được / Mệnh giá
 
     BÚT TOÁN
   1. Định khoản (ghi nhật kí chung) → Dựa theo quy tắc ghi nợ/có
@@ -242,9 +242,12 @@
 - Lớn (nâng cấp): Nợ TK Sửa chữa/Thuế, Có TK Phải trả/Tiền
   → Sửa xong: Nợ TK TSCĐHH, Có TK Sửa chữa
 
-  4. Khấu hao → Không tính cho đất, tài sản không thời hạn
+  4. Khấu hao 
+    → Không tính cho đất, tài sản không thời hạn
+    → Ảnh hưởng bởi nguyên giá và giá trị thu hồi
 - Tính: Giá trị phải khấu hao = Nguyên giá - Giá trị thu hồi (giá khi thanh lí) (~0)
   + Đường thẳng: Mức khấu hao năm = Giá trị phải khấu hao/Số năm
+    → Có mức khấu hao không đổi
   + Theo sản lượng: 
     -- Mức bình quân = Giá trị phải khấu hao/Tổng sản lượng ước tính
     -- Mức khấu hao năm = Sản lượng thực x Mức bình quân
@@ -329,7 +332,7 @@
   2. Định khoản
 - Phát hành thường ~ ưu đãi
   + Thị = Mệnh: Nợ TK Tiền (thị), Có TK Cổ phiếu thường (mệnh)
-  + Thị > Mệnh: Nợ TK Tiền, Có TK Cổ phiếu thường/Thặng dư vốn
+  + Thị > Mệnh: Nợ TK Tiền, Có TK Cổ phiếu thường (Vốn góp)/Thặng dư vốn
   + Thị < Mệnh: Nợ TK Tiền/Thặng dư vốn/Lợi nhuận chưa phân phối, Có TK Cổ phiếu thường
     (Ghi Lợi nhuận khi Thặng dư vốn không đủ bù chênh lệch)
 - Cổ phiếu quỹ 
@@ -376,3 +379,4 @@
   + Công ty dịch vụ < Công ty thương mại < Công ty sản xuất
 - Bỏ sót nghiệp vụ → Vẫn giữ cân bằng kế toán
 - Bảng báo cáo hàng tồn = Phương pháp quản lý, tính giá vốn + Các loại hàng tồn
+- Định khoản phụ cấp tính vào Phải trả người lao động
