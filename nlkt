@@ -31,12 +31,33 @@
 
     GIẢ ĐỊNH VÀ NGUYÊN TẮC CHUNG (GAAP)
 - VAS, thông tư 200/Bộ Tài chính
-- Giả định
-  + Thực thể kinh doanh
+- Giả định (4)
+  + Thực thể kinh doanh: Hoạt động của 1 thực thể phải tách khỏi chủ sở hữu và các thực thể khác
+    → Phải lập BCTC riêng từng doanh nghiệp
   + Hoạt động liên tục
-  + Thước đo tiền tệ
+    -- Tài sản ghi giá gốc
+    -- Tài sản và nợ chia ngắn dài hạn
+    -- Xác định chi tiêu là chi phí kinh doanh hay tài sản
+  + Thước đo tiền tệ: Chỉ ghi nhận đối tượng có thể quy đổi thành tiền
   + Kì kế toán
-- Nguyên tắc
+    -- Chia thời gian hoạt động doanh nghiệp thành khoảng bằng nhau (lập BCTC)
+    -- Việt Nam 1/1-31/12, Anh 1/4-31/3, Mỹ 1/10-31/9, Úc 1/7-30/6, Sing tùy doanh nghiệp
+- Nguyên tắc (9)
+  + Cơ sở dồn tích: Ghi sổ ngay khi phát sinh, sửa bằng bút toán điều chỉnh
+  + Giá phí
+    -- Giả định liên tục và kì kế toán
+    -- Tài sản tính theo giá tại thời điểm nhận được (tổng tiền các nguồn lực bỏ ra để có tài sản)
+  + Khách quan: Số liệu có thể kiểm tra được, có chứng từ, không bị ảnh hưởng chủ quan
+  + Phù hợp
+    -- Giả định liên tục và kì kế toán
+    -- Chi phí phát sinh phải phù hợp với doanh thu
+  + Nhất quán: Chỉ thực hiện 1 phương pháp kế toán (tính giá vốn, lập dự phòng, tính khấu hao)
+  + Ghi nhận doanh thu: Ghi nhận doanh thu khi giao hết hàng hoặc hoàn thành dịch vụ (không liên quan tiền)
+  + Thận trọng
+    -- Ghi nhận doanh thu khi có chứng từ, nhưng ghi nhận chi phí từ khi có nguy cơ
+    -- Chọn ghi thấp nhất cho chi phí liên quan tài sản, ghi cao nhất cho công nợ phải trả
+  + Trọng yếu: Ghi tách riêng các nghiệp vụ quan trọng với người sử dụng, có thể bỏ qua các lỗi nhỏ
+  + Công khai: Tất cả tình hình tài chính, hoạt động phải trình bày đủ trong BCTC cho người sử dụng
 
     PHƯƠNG TRÌNH KẾ TOÁN
 - Cơ bản → Tài sản = Nợ phải trả + Vốn chủ sở hữu
@@ -194,7 +215,7 @@
   + Giá vốn: Nợ TK Giá vốn, Có TK Hàng
 - Giảm/trả
   + Doanh thu: Nợ TK Hàng bị trả, giảm/Thuế, Có TK Tiền/Phải thu
-  + Giá vốn: Nợ TK Hàng, Có TK Giá vốn
+  + Giá vốn: Nợ TK Hàng, Có TK Giá vốn (GIẢM GIÁ KHÔNG CÓ CÁI NÀY)
 - Chiết khấu bán: Nợ TK Chiết khấu/Thuế, Có TK Phải thu → Thu nợ
 - Xuất kho tiêu thụ: Nợ TK Giá vốn/Hàng gửi, Có TK Hàng (tính theo giá vốn, kệ đề cho giá bán)
 
@@ -348,3 +369,7 @@
   + Mục đích = Lợi nhuận + Phi lợi nhuận
   + Chủ sở hữu = 1 thành viên + Hợp danh + Cổ phần (niêm yết, không niêm yết)
 - Lợi nhuận chưa phân phối → Trả cổ tức/ Trích lập quỹ/ Phục vụ kinh doanh
+- Chu trình kinh doanh
+  + Từ lúc bỏ tiền ra đến lúc thu tiền về
+  + Công ty dịch vụ < Công ty thương mại < Công ty sản xuất
+- Bỏ sót nghiệp vụ → Vẫn giữ cân bằng kế toán
