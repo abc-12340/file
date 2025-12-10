@@ -1,3 +1,44 @@
+    CHỈ TIÊU
+- FOB điểm đi → Bên mua trả vận chuyển
+- FOB điểm đến → Bên bán trả vận chuyển
+
+- Tỉ suất lợi nhuận gộp trên DT thuần (Lợi nhuận biên) = Lợi nhuận gộp / Doanh thu thuần
+  → 1 đồng doanh thu tạo ? đồng lợi nhuận gộp (cao = tốt)
+- Tỉ suất giá vốn trên DT thuần = 1 - Lợi nhuận biên
+  → Giá vốn chiếm ? % doanh thu (thấp = tốt)
+- Tỉ suất lợi nhuận thuần = Lợi nhuận thuần / Doanh thu thuần
+  → 1 đồng doanh thu tạo ? đồng lợi nhuận thuần (cao = tốt)
+
+- Hiệu suất luân chuyển hàng tồn (Số lần ~ Vòng quay) = Giá vốn / Hàng tồn bình quân
+  → Cao = tốt, cao quá thành thiếu hàng
+- Số ngày bán hàng tồn = 365 / Hiệu suất luân chuyển
+  → Nhỏ = tốt
+
+- Số lần thu nợ (Vòng quay) = Doanh thu thuần / Phải thu bình quân
+  → 1 năm thu nợ được ? lần (cao = tốt)
+- Thời gian (kì) thu nợ = 365 / Số lần thu nợ (ngày)
+  → Mất ? ngày để thu hồi nợ (nhỏ = tốt)
+
+- ROA = Lợi nhuận thuần / Tổng tài sản bình quân
+  → 1 đồng tài sản tạo ? đồng lợi nhuận (cao = tốt)
+- Hiệu suất sử dụng TSCĐ (Vòng quay TSCĐ) = Doanh thu thuần / Tổng TSCĐ bình quân
+  → 1 đồng TSCĐ tạo ? đồng doanh thu (cao = tốt)
+- Hiệu suất sử dụng tổng tài sản (Vòng quay tài sản) = Doanh thu thuần / Tổng tài sản bình quân
+  → 1 đồng tài sản tạo ? đồng doanh thu (cao = tốt)
+
+- Hệ số thanh toán ngắn (CR) = Tài sản ngắn hạn / Nợ ngắn hạn
+  → 1 đồng nợ được đảm bảo bằng ? đồng tài sản (>1 là tốt, cao quá khó sinh lời)
+  ~ Vốn lưu đồng ròng (thuần) = Tài sản ngắn hạn - Nợ ngắn hạn (>0 là tốt)
+- Hệ số thanh toán nhanh (QR) = (Tài sản ngắn hạn - Hàng tồn) / Nợ ngắn hạn
+                              = (Tiền + Đầu tư ngắn + Phải thu) / Nợ ngắn hạn
+  → Khả năng thanh toán nợ bằng tài sản có thể chuyển thành tiền nhanh (>1 là tốt)
+
+- Lợi nhuận trên vốn chủ sở hữu (ROE) = Lợi nhuận thuần / Vốn chủ bình quân
+  → Cao = tốt, cao quá thành rủi ro nhiều
+- Lợi nhuận trên 1 cổ phiếu (EPS) = Lợi nhuận cổ đông thường / Số cổ phần lưu hành
+  → Cao = tốt
+- Tỉ lệ chi trả cổ tức (DPR) = Cổ tức nhận được / Mệnh giá
+
     KẾ TOÁN
     → Ngôn ngữ kinh doanh
 - Chức năng 
@@ -95,51 +136,11 @@
 - Doanh thu thuần = Doanh thu bán hàng - Khoản giảm trừ (trả, giảm, chiết khấu)
 - Lợi nhuận gộp = Doanh thu thuần - Giá vốn
 - Chi phí hoạt động = Lương, dịch vụ ngoài, quảng cáo, khấu hao, vận chuyển, bảo hiểm, tiện ích
-- Doanh thu khác = Doanh thu lãi + Cho thuê tài sản
-- Chi phí khác = Chi phí lãi + Thanh lý tài sản + Lỗ, phạt
-- Lợi nhuận thuần (kinh doanh) = Lợi nhuận gộp + Doanh thu khác - Chi phí hoạt động - Chi phí khác
-  (Lợi nhuận thuần có thể ~ Lợi nhuận trước thuế HOẶC chỉ tính DT, CP lãi và CP hoạt động) 
-
-    CHỈ TIÊU
-- FOB điểm đi → Bên mua trả vận chuyển
-- FOB điểm đến → Bên bán trả vận chuyển
-
-- Tỉ suất lợi nhuận gộp trên DT thuần (Lợi nhuận biên) = Lợi nhuận gộp / Doanh thu thuần
-  → 1 đồng doanh thu tạo ? đồng lợi nhuận gộp (cao = tốt)
-- Tỉ suất giá vốn trên DT thuần = 1 - Lợi nhuận biên
-  → Giá vốn chiếm ? % doanh thu (thấp = tốt)
-- Tỉ suất lợi nhuận thuần = Lợi nhuận thuần / Doanh thu thuần
-  → 1 đồng doanh thu tạo ? đồng lợi nhuận thuần (cao = tốt)
-
-- Hiệu suất luân chuyển hàng tồn (Số lần ~ Vòng quay) = Giá vốn / Hàng tồn bình quân
-  → Cao = tốt, cao quá thành thiếu hàng
-- Số ngày bán hàng tồn = 365 / Hiệu suất luân chuyển
-  → Nhỏ = tốt
-
-- Số lần thu nợ (Vòng quay) = Doanh thu thuần / Phải thu bình quân
-  → 1 năm thu nợ được ? lần (cao = tốt)
-- Thời gian (kì) thu nợ = 365 / Số lần thu nợ (ngày)
-  → Mất ? ngày để thu hồi nợ (nhỏ = tốt)
-
-- ROA = Lợi nhuận thuần / Tổng tài sản bình quân
-  → 1 đồng tài sản tạo ? đồng lợi nhuận (cao = tốt)
-- Hiệu suất sử dụng TSCĐ (Vòng quay TSCĐ) = Doanh thu thuần / Tổng TSCĐ bình quân
-  → 1 đồng TSCĐ tạo ? đồng doanh thu (cao = tốt)
-- Hiệu suất sử dụng tổng tài sản (Vòng quay tài sản) = Doanh thu thuần / Tổng tài sản bình quân
-  → 1 đồng tài sản tạo ? đồng doanh thu (cao = tốt)
-
-- Hệ số thanh toán nhanh ngắn (CR) = Tài sản ngắn hạn / Nợ ngắn hạn
-  → 1 đồng nợ được đảm bảo bằng ? đồng tài sản (>1 là tốt, cao quá khó sinh lời)
-  ~ Vốn lưu đồng ròng (thuần) = Tài sản ngắn hạn - Nợ ngắn hạn (>0 là tốt)
-- Hệ số thanh toán nhanh (QR) = (Tài sản ngắn hạn - Hàng tồn) / Nợ ngắn hạn
-                              = (Tiền + Đầu tư ngắn + Phải thu) / Nợ ngắn hạn
-  → Khả năng thanh toán nợ bằng tài sản có thể chuyển thành tiền nhanh (>1 là tốt)
-
-- Lợi nhuận trên vốn chủ sở hữu (ROE) = Lợi nhuận thuần / Vốn chủ bình quân
-  → Cao = tốt, cao quá thành rủi ro nhiều
-- Lợi nhuận trên 1 cổ phiếu (EPS) = Lợi nhuận cổ đông thường / Số cổ phần lưu hành
-  → Cao = tốt
-- Tỉ lệ chi trả cổ tức (DPR) = Cổ tức nhận được / Mệnh giá
+- Doanh thu khác = Cho thuê tài sản
+- Chi phí khác = Thanh lý tài sản + Lỗ, phạt
+- Lợi nhuận thuần (kinh doanh) = Lợi nhuận gộp + Doanh thu lãi - Chi phí hoạt động - Chi phí lãi
+- Lợi nhuận trước thuế = Lợi nhuận thuần + Doanh thu khác - Chi phí khác 
+  (Lợi nhuận thuần có thể ~ Lợi nhuận trước thuế) 
 
     BÚT TOÁN
   1. Định khoản (ghi nhật kí chung) → Dựa theo quy tắc ghi nợ/có
@@ -161,10 +162,10 @@
   + Cuối kì: Nợ TK Doanh thu chưa thực hiện, Có TK Doanh thu dịch vụ
 - Chi phí phải trả dồn tích (Chi phí lãi) ~ Nợ phải trả
   + Cuối mỗi kì: Nợ TK Chi phí lãi vay, Có TK Lãi vay phải trả
-  + Trả nợ: Nợ TK Lãi vay phải trả, Có TK Tiền
+  + Trả nợ: Nợ TK Chi phí lãi vay (kì cuối)/Lãi vay phải trả, Có TK Tiền
 - Doanh thu sẽ nhận dồn tích (Doanh thu lãi) ~ Phải thu
   + Cuối mỗi kì: Nợ TK Phải thu lãi tiền gửi, Có TK Doanh thu lãi tiền gửi
-  + Thu nợ: Nợ TK Tiền, Có TK Phải thu lãi tiền gửi
+  + Thu nợ: Nợ TK Tiền, Có TK Doanh thu lãi tiền gửi (kì cuối)/Phải thu lãi tiền gửi
 
   3. Khóa sổ cuối kì
 - Kết chuyển số dư TK tạm thời (doanh thu, chi phí, cổ tức)
@@ -343,7 +344,7 @@
     -- Ngày thông báo: Nợ TK Lợi nhuận (Lượng x Mệnh x Tỉ lệ), Có TK Cổ tức phải trả
     -- Ngày chốt danh sách → Giao dịch không hưởng quyền (mua không được trả, bán vẫn được trả cổ tức)
     -- Ngày trả cổ tức: Nợ TK Cổ tức phải trả, Có TK Tiền gửi
-  + Bằng cổ phiếu
+  + Bằng cổ phiếu → Cổ đông tránh nộp thuế
     -- Ngày thông báo: Nợ TK Lợi nhuận, Có TK Cổ tức bằng CP phải phân phối
         (Tỉ lệ <20% → Trả theo thị ~ Có thể có Thặng dư vốn; Tỉ lệ >25% → Trả theo mệnh)
     -- Ngày chốt danh sách
